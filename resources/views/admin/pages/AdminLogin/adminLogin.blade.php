@@ -162,7 +162,6 @@
 </head>
 
 <body>
-
     <div id="app" class="login-container" style="
             color:#233268;">
         <section class="section d-flex align-items-center" >
